@@ -911,7 +911,7 @@ h4.timeline-title {
 
 ul.year {
   text-align: right;
-  margin-left: 13em;
+  margin-left: 8em;
 }
 
 ul.year li {
@@ -1809,8 +1809,13 @@ span.border.two:after {
     padding: 1em;
   }
   .mail_left {
-    padding: 0;
+    padding: -20;
   }
+
+  .mail_center{
+    margin: 0 auto;
+  }
+
   .mail_us {
     margin-bottom: 12px;
     margin-top: 27px;
